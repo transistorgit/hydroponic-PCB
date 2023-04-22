@@ -1,0 +1,6 @@
+* Anschluss für Wasserpumpe
+* Strommessung Wasserpumpe
+* Befestigungsbohrungen für Display und Relais
+* Status LEDs auf andere PGIO Pins
+* R und C in SMD
+* Spannungsteiler für Waterlevel Sensoren deutlich hochohmiger machen
